@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+form input{
+    margin: 15px;
+    width: 180px;
+}
+input[type="submit" i] {
+    width: 80px;
+}
+
